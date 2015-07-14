@@ -1,12 +1,3 @@
-TWO SECOND DAD
-COMING SOON
-
-Thank you to HTML5 UP, you can find their original README below.
-
-
-
-
-
 Eventually by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
